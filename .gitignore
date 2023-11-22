@@ -1,0 +1,5 @@
+mnist-model.script.pt
+__pycache__
+.serverless
+aws
+.aws
